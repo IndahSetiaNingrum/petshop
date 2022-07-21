@@ -1,5 +1,5 @@
-# Tegal Petshop
+# Bona Petshop
 
-Website Petshop menyediakan Beragam kebutuhan untuk hewan peliharaan dan jasa grooming untuk wilayah kota tegal.
+Website Petshop menyediakan Beragam kebutuhan untuk hewan peliharaan.
 ![alt text](ss-01.png)
 "# petshop" 
