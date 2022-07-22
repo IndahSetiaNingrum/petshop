@@ -1,5 +1,5 @@
 # Bona Petshop
 
-Website Petshop menyediakan Beragam kebutuhan untuk hewan peliharaan.
+Website Petshop menyediakan beragam kebutuhan untuk hewan peliharaan anda.
 ![alt text](ss-01.png)
 "# petshop" 
